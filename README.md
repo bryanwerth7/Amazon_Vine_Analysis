@@ -6,7 +6,8 @@ This analysis was designed to get a quick overview of whether or not paid review
 ## Results
  - I first had to determine how to get credible reviews from our data, I used only products that had over 20 reviews and at least 50% of them being voted as helpful. After this filtering I found that there were a total of 94 paid reviews and 40,471 unpaid reviews. Filtering shown below:
 
-<img width="861" alt="Screen Shot 2021-11-01 at 8 31 41 PM" src="https://user-images.githubusercontent.com/86524863/139760748-39af8cbf-2854-4aba-b920-e7a4484cff81.png">
+<img width="853" alt="Screen Shot 2021-11-01 at 8 39 31 PM" src="https://user-images.githubusercontent.com/86524863/139766116-5f26d5bb-661b-497f-a9fd-2d536cd23bba.png">
+
 
  - Of those credible reviews, 48 of the 94 paid reviews were 5 stars and 15,663 of the 40,471 unpaid reviews were 5 stars.
  - This showed that 51% were paid 5 star reviews VS 39% of unpaid reviews as summarized in the table below:
